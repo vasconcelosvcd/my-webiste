@@ -1,0 +1,51 @@
+baseURL = "http://vcvit.com.br/"
+languageCode = "en-us"
+title = "Vinicius Vasconcelos"
+theme = "m10c"
+[menu]
+  [[menu.main]]
+  
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+#   [[menu.main]]
+#     identifier = "tags"
+#     name = "Tags"
+#     url = "/tags/"
+#     weight = 2
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+
+
+[params]
+  author = "Vinicius V"
+  description = "Backend Developer"
+  avatar = "vinireal.png"
+  menu_item_separator = " - "
+  [[params.social]]
+    icon = "github"
+    name = "Github"
+    url = "https://github.com/vasconcelosvcd"
+  [[params.social]]
+    icon = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/vasconcelosvcd"
+  [[params.social]]
+    icon = "linkedin"
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/vinicius-vasconcelos-96a16487/"
+
+
+
+  # Red theme
+  [params.style]
+   darkestColor = "#d35050"
+   darkColor = "#212121"
+   lightColor = "#d6d6d6"
+   lightestColor = "#d3d3d3"
+   primaryColor = "#ffffff"

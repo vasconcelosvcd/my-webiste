@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vinicius Vasconcelos</title>
+    <link>http://vcvit.com.br/</link>
+    <description>Recent content on Vinicius Vasconcelos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://vcvit.com.br/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vinicius Vasconcelos</title>
+      <link>http://vcvit.com.br/</link>
+      <pubDate>Wed, 10 Mar 2021 22:16:20 -0300</pubDate>
+      
+      <guid>http://vcvit.com.br/</guid>
+      <description>In progress&amp;hellip; </description>
+    </item>
+    
+  </channel>
+</rss>
